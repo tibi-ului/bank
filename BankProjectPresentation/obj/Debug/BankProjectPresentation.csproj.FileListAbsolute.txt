@@ -1,0 +1,8 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section3BankProject\BankProject\BankProjectPresentation\bin\Debug\BankProjectPresentation.exe.config
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section3BankProject\BankProject\BankProjectPresentation\bin\Debug\BankProjectPresentation.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section3BankProject\BankProject\BankProjectPresentation\bin\Debug\BankProjectPresentation.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section3BankProject\BankProject\BankProjectPresentation\obj\Debug\BankProjectPresentation.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section3BankProject\BankProject\BankProjectPresentation\obj\Debug\BankProjectPresentation.csproj.SuggestedBindingRedirects.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section3BankProject\BankProject\BankProjectPresentation\obj\Debug\BankProjectPresentation.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section3BankProject\BankProject\BankProjectPresentation\obj\Debug\BankProjectPresentation.exe
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section3BankProject\BankProject\BankProjectPresentation\obj\Debug\BankProjectPresentation.pdb

@@ -1,0 +1,11 @@
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\bin\Debug\BankProject.DataAccesLayer.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\bin\Debug\BankProject.DataAccesLayer.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\bin\Debug\BankProject.Entities.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\bin\Debug\BankProject.Exceptions.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\bin\Debug\BankProject.Entities.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\bin\Debug\BankProject.Exceptions.pdb
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\obj\Debug\BankProject.DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\obj\Debug\BankProject.DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\obj\Debug\BankProject.DataAccesLayer.csproj.CopyComplete
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\obj\Debug\BankProject.DataAccesLayer.dll
+C:\Users\tului\Desktop\AusyFullstack\C#10UltimateGuide\Section25BankProject\BankProject\BankProject.DataAccesLayer\obj\Debug\BankProject.DataAccesLayer.pdb
