@@ -17,5 +17,6 @@ namespace BankProject.Configuration
         public static long BaseFundsTransferStatementNo { get; set; } = 10;
         public static long BaseAccountStatementNo { get; set; } = 0;
         public static long BaseNo { get; set; } = 0;
+        public static long BaseEx { get; set; } = 0;
     }
 }
