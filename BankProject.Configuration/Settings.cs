@@ -11,7 +11,7 @@ namespace BankProject.Configuration
         /// <summary>
         /// Customer number starts from 1001;incremented by 1
         /// </summary>
-        public static long BaseCustomerNo { get; set; } = 1000;
+        public static long BaseCustomerNo { get; set; } = 10000;
         public static long BaseAccountNo { get; set; } = 100;
         public static long BaseFundsTransferNo { get; set; } = 10;
         public static long BaseFundsTransferStatementNo { get; set; } = 10;
